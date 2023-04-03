@@ -10,6 +10,8 @@ Once logged in successfully in https://baserow.io/ click on **Create new** (if y
 
 Under the database "Servings" in the left-hand column of your page, you will see at table (*Table*), rename it to **Cereals**.
 
+It can be visited at https://baserow.io/database/59531/table/154662
+
 In **Grid View**, double click on the column(s) to change their names as follows:
 
 | Atom | Size | Color |

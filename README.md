@@ -5,6 +5,8 @@ Based on "GraphQL For Airtable? Two Ways To Query Airtable With GraphQL" at http
 
 Based on "GraphiQL: an in-browser tool for writing, validating, and testing GraphQL queries" at https://graphql.org/swapi-graphql
 
+Based on "GraphiQL" at https://github.com/graphql/graphiql"
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)

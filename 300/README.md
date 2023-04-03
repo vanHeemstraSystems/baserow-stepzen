@@ -27,7 +27,7 @@ Where:
 - MG = Multigrain
 - OM = Oat Meal
 
-![Airtable_Servings_Cereal](https://user-images.githubusercontent.com/1499433/229313861-3187b803-9912-4607-9eb2-ac0502c53a6a.png)
+![Baserow_Servings_Cereals](https://user-images.githubusercontent.com/1499433/229465862-49a66ae9-c874-4d23-aab9-51b4b1feeb94.png)
 
 *NOTE*: This should ultimately result in a JSON data file like:
  
